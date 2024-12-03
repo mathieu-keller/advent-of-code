@@ -32,7 +32,7 @@ Here's an example structure:
     ├── Typescript/
     │   └── solution.ts
     └── Go/
-       └── solution.go
+        └── solution.go
 ```
 
 ## Languages Used
